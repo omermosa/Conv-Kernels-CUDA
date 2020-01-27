@@ -1,6 +1,7 @@
 // Conv. operations on images using CUDA
 // Copyrights Omer Hassan, All Rights Reserved
 // The American University in Cairo (AUC)
+// December 2019
 
 //The images are loaded and processed using cimg.h library
 
